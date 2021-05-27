@@ -1,0 +1,82 @@
+GUID def4453b39384bd8b09a2da4316b991c
+
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 38514
+
+Size_X 5
+Size_Y 2
+Size_Z 0.7
+
+Magazine 38611
+
+Hook_Tactical
+
+Ammo_Min 15
+Ammo_Max 15
+
+Safety
+Semi
+Bursts 3
+
+Caliber 3815
+
+Firerate 25
+Action Trigger
+
+Player_Damage 85
+Zombie_Damage 85
+Animal_Damage 85
+Barricade_Damage 350
+Structure_Damage 350
+Vehicle_Damage 500
+Resource_Damage 2000
+Object_Damage 1000
+
+Range 5
+Explosion 38552
+
+Durability 2
+
+Spread_Aim 0.2
+Spread_Hip 0.2
+
+Ballistic_Force 2500
+
+Recoil_Min_X -15
+Recoil_Min_Y 25
+Recoil_Max_X 15
+Recoil_Max_Y 30
+
+Recover_X 0.7
+Recover_Y 0.7
+
+Shake_Min_X -0.0025
+Shake_Min_Y 0.0025
+Shake_Min_Z -0.01
+Shake_Max_X 0.0025
+Shake_Max_Y -0.0025
+Shake_Max_Z -0.02
+
+Invulnerable
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 20
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Repair
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 38514
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 67
+Blueprint_1_Output_0_Amount 35
+Blueprint_1_Build 27
+
+Exclude_From_Master_Bundle

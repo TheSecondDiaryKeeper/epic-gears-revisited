@@ -1,0 +1,56 @@
+GUID c00032aa01514b8b84a59eab965a343d
+Type Magazine
+Rarity Legendary
+ID 38607
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Amount 6
+Count_Min 6
+Count_Max 6
+
+Calibers 1
+Caliber_0 3813
+
+Pellets 3
+
+Tracer 48
+
+Blueprints 6
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 44
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 38609
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 38608
+Blueprint_2_Build 30
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 38607
+Blueprint_3_Build 30
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 38606
+Blueprint_4_Build 30
+Blueprint_5_Type Tool
+Blueprint_5_Supplies 2
+Blueprint_5_Supply_0_ID 67
+Blueprint_5_Supply_0_Amount 2
+Blueprint_5_Supply_1_ID 1094
+Blueprint_5_Supply_1_Amount 2
+Blueprint_5_Level 1
+Blueprint_5_Skill Craft
+Blueprint_5_Product 38607
+Blueprint_5_Products 1
+Blueprint_5_Build 27
+
+Delete_Empty
+
+Exclude_From_Master_Bundle

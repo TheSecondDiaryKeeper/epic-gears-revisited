@@ -1,0 +1,33 @@
+GUID 285ac96c60de4964b3afa74cf715e981
+
+Type Magazine
+Rarity Legendary
+ID 38611
+
+Size_X 1
+Size_Y 2
+Size_Z 0.2
+
+Amount 15
+Count_Min 15
+Count_Max 15
+
+Calibers 1
+Caliber_0 3815
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 75
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 73
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 67
+Blueprint_0_Supply_2_Amount 2
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 32
+
+Delete_Empty
+
+Exclude_From_Master_Bundle

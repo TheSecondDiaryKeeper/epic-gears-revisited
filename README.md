@@ -53,4 +53,4 @@ ID Lists:
 
 If you discover any bugs, glitches, or otherwise feel free to comment them. If you have any balance suggestions feel free to let me know. 
 
-**If you would like to reupload the mod for balance reasons, ask permission first please. All files are open source on my Github (You're already here, check recent builds.)**
+**If you would like to reupload the mod for balance reasons, ask permission first please, and if you do reupload please credit me. All files are open source on my Github (You're already here, check recent builds.)**
