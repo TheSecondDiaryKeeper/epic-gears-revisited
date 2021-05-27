@@ -10,9 +10,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1759818554
 https://steamcommunity.com/sharedfiles/filedetails/?id=948272215
 
 ID Lists:
---------------
-Weapons
---------------
+---
+# Weapons
+
 APOD - 38504
 Ashes Embrace - 38510
 Bulletstorm - 38500
@@ -25,9 +25,9 @@ Laser Unicorn - 38507
 Admiral Carbine - 38511
 Flame Bouncer - 38513
 Iron Curtain - 38514
---------------
-Ammo
---------------
+
+# Ammo
+
 40miniG (APOD) - 38603 
 240AC (Ashes Embrace) - 38602
 80GM (Bulletstorm, Chaos Call, Admiral Carbine) - 38600
@@ -40,15 +40,15 @@ Ammo
 Just a Penny (Laser Unicorn) - 38605
 Iron Ball (Flame Bouncer) - 38610
 Energy Cell (Iron Curtain) - 38611
---------------
-Armor
---------------
+
+# Armor
+
 Ruby Rose Hood - 39501
 Ruby Rose Dress - 39500
 Ruby Rose Cloak - 39502
---------------
-Extras
---------------
+
+# Extras
+
 Charms - 39503
 
 If you discover any bugs, glitches, or otherwise feel free to comment them. If you have any balance suggestions feel free to let me know. 
