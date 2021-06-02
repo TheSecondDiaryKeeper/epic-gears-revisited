@@ -26,7 +26,7 @@ Caliber 3815
 Firerate 25
 Action Trigger
 
-Player_Damage 85
+Player_Damage 75
 Zombie_Damage 85
 Animal_Damage 85
 Barricade_Damage 350

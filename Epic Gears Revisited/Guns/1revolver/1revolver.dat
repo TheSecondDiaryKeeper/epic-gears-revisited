@@ -25,7 +25,7 @@ Bursts 3
 
 Caliber 3813
 
-Range 200
+Range 300
 Firerate 6
 Action Trigger
 Player_Damage 50
@@ -40,13 +40,13 @@ Zombie_Arm_Multiplier 0.3
 Zombie_Spine_Multiplier 0.6
 Zombie_Skull_Multiplier 1.1
 
-Animal_Damage 50
+Animal_Damage 150
 Animal_Leg_Multiplier 0.6
 Animal_Spine_Multiplier 0.8
 Animal_Skull_Multiplier 1.1
 
-Barricade_Damage 30
-Structure_Damage 25
+Barricade_Damage 50
+Structure_Damage 50
 Vehicle_Damage 35
 Resource_Damage 30
 Object_Damage 30

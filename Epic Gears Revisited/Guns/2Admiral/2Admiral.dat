@@ -27,7 +27,7 @@ Bursts 4
 
 Caliber 3808
 
-Range 250
+Range 300
 Firerate 4
 Action Trigger
 
@@ -43,7 +43,7 @@ Zombie_Arm_Multiplier 0.3
 Zombie_Spine_Multiplier 0.6
 Zombie_Skull_Multiplier 1.1
 
-Animal_Damage 40
+Animal_Damage 80
 Animal_Leg_Multiplier 0.6
 Animal_Spine_Multiplier 0.8
 Animal_Skull_Multiplier 1.1

@@ -30,13 +30,13 @@ Zombie_Arm_Multiplier 2.0
 Zombie_Spine_Multiplier 3.0
 Zombie_Skull_Multiplier 5.0
 
-Animal_Damage 150
+Animal_Damage 200
 Animal_Leg_Multiplier 1.5
 Animal_Spine_Multiplier 1.5
 Animal_Skull_Multiplier 2.5
 
-Barricade_Damage 250
-Structure_Damage 250
+Barricade_Damage 300
+Structure_Damage 300
 Vehicle_Damage 125
 Resource_Damage 170
 Object_Damage 400

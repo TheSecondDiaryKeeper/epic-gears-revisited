@@ -29,7 +29,7 @@ Range 12
 Firerate 20
 Action Rocket
 
-Player_Damage 100
+Player_Damage 300 
 Zombie_Damage 300
 Animal_Damage 300
 Barricade_Damage 600
